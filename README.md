@@ -12,4 +12,4 @@ Final-year Computer Engineering student at the University of Granada, specializi
 
 C++ · Python · Java · Kotlin · scikit-learn · Keras · OpenCV · Qiskit
 
-albertoaragonjimenez5@gmail.com · Granada, Spain
+albertoaragonjimenez5@gmail.com · [LinkedIn](https://www.linkedin.com/in/alberto-aragon-jimenez/) · Granada, Spain
