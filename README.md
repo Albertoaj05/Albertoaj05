@@ -1,6 +1,6 @@
 ### Alberto Aragón Jiménez
 
-Final-year Computer Engineering student at the University of Granada, specializing in Computing and Intelligent Systems. I work on optimization, machine learning and, for my bachelor's thesis, explainable AI.
+Final-year Computer Engineering student at the University of Granada, specialising in Computing and Intelligent Systems. I like working through the maths behind an algorithm, implementing it and figuring out why it produces the results it does, mostly in machine learning and optimisation.
 
 **Selected work**
 
@@ -8,8 +8,8 @@ Final-year Computer Engineering student at the University of Granada, specializi
 - [portfolio-metaheuristics](https://github.com/Albertoaj05/portfolio-metaheuristics): 14 metaheuristics (genetic, memetic, GRASP, ILS, simulated annealing) for risk-adjusted portfolio selection on the IBEX 35, S&P 100 and S&P 500; fitted on 2015–2024 and tested on 2025, with Wilcoxon tests over 50 runs.
 - [quantum-playground](https://github.com/Albertoaj05/quantum-playground): eight quantum algorithms in Qiskit, including a VQE that reaches the H2 ground-state energy within 10⁻⁵ Ha. [Results page](https://albertoaj05.github.io/quantum-playground/).
 
-**Currently:** computer vision, systems simulation and cryptography courses; thesis on counterfactual explanations for forensic age estimation.
+**Currently:** computer vision, systems simulation and cryptography courses, and starting my bachelor's thesis on counterfactual explanations for forensic age estimation.
 
-C++ · Python · Java · Kotlin · scikit-learn · Keras · OpenCV · Qiskit
+C++ · Python · Java · SQL · NumPy · pandas · scikit-learn · Keras · OpenCV · Qiskit · Git · Linux
 
 albertoaragonjimenez5@gmail.com · [LinkedIn](https://www.linkedin.com/in/alberto-aragon-jimenez/) · Granada, Spain
