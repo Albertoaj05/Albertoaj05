@@ -1,6 +1,6 @@
 ### Alberto Aragón Jiménez
 
-Final-year Computer Engineering student at the University of Granada, specialising in Computing and Intelligent Systems. I like working through the maths behind an algorithm, implementing it and figuring out why it produces the results it does, mostly in machine learning and optimisation.
+Final-year Computer Engineering student at the University of Granada, specialising in Computing and Intelligent Systems, with a particular interest in Machine Learning Engineering & Research. I like working through the maths behind algorithms, implementing them and understanding why they produce certain results.
 
 **Selected work**
 
@@ -12,7 +12,7 @@ Final-year Computer Engineering student at the University of Granada, specialisi
 - [search-agents-java](https://github.com/Albertoaj05/search-agents-java): depth-first, A*, RTA* and LRTA*(k) agents in Java for a grid puzzle game, compared on route length, expanded nodes and time. A* always finds the optimal route but expands up to ten times more nodes.
 - [quantum-playground](https://github.com/Albertoaj05/quantum-playground): eight quantum algorithms in Qiskit, including a VQE that reaches the H2 ground-state energy within 10⁻⁵ Ha. [Results page](https://albertoaj05.github.io/quantum-playground/).
 
-**Currently:** computer vision, systems simulation and cryptography courses, and starting my bachelor's thesis on counterfactual explanations for forensic age estimation.
+**Currently:** studying computer vision, systems simulation and language processors. Proposed bachelor's thesis on counterfactual explanations for forensic age estimation.
 
 C++ · Python · Java · SQL · NumPy · pandas · scikit-learn · Keras · OpenCV · Qiskit · Git · Linux
 
